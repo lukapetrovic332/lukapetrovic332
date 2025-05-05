@@ -26,6 +26,3 @@
 
 ---
 
-You can customize the banner [here](https://capsule-render.vercel.app/) if you want different text or color.
-
-Would you like me to add animated GitHub stats or contribution streaks as well?
