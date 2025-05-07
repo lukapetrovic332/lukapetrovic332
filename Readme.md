@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
- ![](Project1-ezgif.com-crop.gif)
+ ![](lukapetrovic332/Project1-ezgif.com-crop.gif)
 </p>
