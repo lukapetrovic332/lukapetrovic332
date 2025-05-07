@@ -26,8 +26,8 @@
 
 ---
 
-<p align="center">
+<section align="center">
    ![](Project1-ezgif.com-crop.gif)
-</p>
+</section>
 
 
