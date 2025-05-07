@@ -26,6 +26,6 @@
 
 ---
 
-<p align="center">
+
  ![](lukapetrovic332/Project1-ezgif.com-crop.gif)
-</p>
+
