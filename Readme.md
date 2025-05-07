@@ -26,3 +26,6 @@
 
 ---
 
+<p align="center">
+  <img src="[https://your-gif-url-here.gif](https://imgur.com/a/RVqzBw7)" alt="Footer Banner" width="100%" />
+</p>
