@@ -27,5 +27,5 @@
 ---
 
 
- ![](lukapetrovic332/Project1-ezgif.com-crop.gif)
+ ![](Project1-ezgif.com-crop.gif)
 
