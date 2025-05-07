@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="[https://imgur.com/a/RVqzBw7](https://imgur.com/a/RVqzBw7)" alt="Footer Banner" width="100%" />
+  <img src="https://imgur.com/a/RVqzBw7" alt="Footer Banner" width="100%" />
 </p>
