@@ -24,8 +24,8 @@
 - 📧 lukapetrovic5934@gmail.com
 - 📷 [Instagram](https://www.instagram.com/)
 
-
+---
 
 <p align="center">
-  <img src="https://i.imgur.com/uKlHaJ6.gif" alt="Footer Banner" width="600px" height="auto" />
+ ![](Project1-ezgif.com-crop.gif)
 </p>
