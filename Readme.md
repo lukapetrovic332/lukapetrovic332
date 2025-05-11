@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me
 - 📧 lukapetrovic5934@gmail.com
-- 📷 [Instagram](https://www.instagram.com/)
+- 📷 [Instagram](https://www.instagram.com/luka_petrovic39)
 
 ---
 
