@@ -7,8 +7,7 @@
 
 ### 👋 About Me
 
-- 🧑‍💻 I'm Luka, a freelance back-end developer based in Bosnia & Herzegovina  
-- 🏫 Just finishing high school — full speed into tech next  
+- 🧑‍💻 I'm Luka, a freelance back-end developer based in Germany  
 - 🐍 I love working with Python, especially Django  
 - 🎯 Always improving my HTML/CSS and exploring new tools  
 - 🎨 I enjoy dark themes, clean layouts, and chill vibes  
